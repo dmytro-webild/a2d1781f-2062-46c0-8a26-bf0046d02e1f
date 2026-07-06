@@ -130,7 +130,7 @@ export default function HomePage() {
           <ContactSplitEmail
             textAnimation="slide-up"
             tag="Get In Touch"
-            title="Schedule Your Luxury Dental Experience"
+            title="Schedule Your Emergency Dentist Orlando Experience"
             description="Visit us at 7259 International Dr Ste a, Orlando, FL 32819 (Floor 1, Dowdy Plaza) or call +1 407-256-9694. Our facility features wheelchair-accessible parking and entrances. We accept credit cards, debit cards, and NFC mobile payments."
             inputPlaceholder="Enter your email"
             buttonText="Get Started"
