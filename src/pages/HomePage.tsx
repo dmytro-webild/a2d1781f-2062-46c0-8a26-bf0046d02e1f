@@ -17,9 +17,9 @@ export default function HomePage() {
         <div id="hero" data-section="hero">
           <HeroSplitKpi
             textAnimation="slide-up"
-            tag="Excellence Since 2005"
-            title="California's Premier Luxury Dental Practice"
-            description="Experience world-class cosmetic and restorative dentistry with cutting-edge technology and personalized care."
+            tag="Emergency Dental Service"
+            title="Emergency Dentist Orlando"
+            description="Experience fast, reliable emergency dental care in Orlando, FL. We provide immediate relief for toothaches, broken teeth, and other urgent dental needs."
             primaryButton={{ text: "View Our Services", href: "#services" }}
             secondaryButton={{ text: "Book Your Visit", href: "#contact" }}
             imageSrc="https://storage.googleapis.com/webild/default/templates/dentist/hero/hero1.avif"
@@ -102,43 +102,25 @@ export default function HomePage() {
             textAnimation="slide-up"
             tag="Patient Reviews"
             title="What Our Patients Say"
-            description="Discover why hundreds of California's discerning patients trust us for their dental care and smile transformations."
+            description="Discover why hundreds of Orlando's discerning patients trust us for their dental care and smile transformations."
             testimonials={[
               {
-                name: "Jennifer Martinez",
-                role: "San Diego Patient",
-                quote: "The most professional and caring dental experience I've ever had. The results exceeded my expectations and the attention to detail is extraordinary.",
+                name: "Tracy Gooden",
+                role: "Patient",
+                quote: "I had a dental emergency and they were able to get me in right away. The staff was very friendly and the dentist was very gentle. I would highly recommend them.",
                 imageSrc: "https://storage.googleapis.com/webild/default/templates/luxury-travel-agency/testimonial/testimonial1.webp",
               },
               {
-                name: "Robert Chen",
-                role: "Business Executive",
-                quote: "Finally found a dentist who understands aesthetics and function. My smile is now my confidence. Highly recommended to anyone serious about quality.",
+                name: "Donyelle Vallee",
+                role: "Patient",
+                quote: "I had a great experience here. The staff was very friendly and the dentist was very knowledgeable. I would definitely recommend them to anyone looking for a new dentist.",
                 imageSrc: "https://storage.googleapis.com/webild/default/templates/luxury-travel-agency/testimonial/testimonial2.webp",
               },
               {
-                name: "Sarah Williams",
-                role: "Entertainment Industry",
-                quote: "This is the place where art meets science. My smile transformation has been life-changing. The expertise here is unmatched.",
+                name: "James Durrell",
+                role: "Patient",
+                quote: "I had a great experience here. The staff was very friendly and the dentist was very knowledgeable. I would definitely recommend them to anyone looking for a new dentist.",
                 imageSrc: "https://storage.googleapis.com/webild/default/templates/luxury-travel-agency/testimonial/testimonial3.webp",
-              },
-              {
-                name: "Michael Torres",
-                role: "Loyal Patient",
-                quote: "I've been a patient for 8 years. The consistent excellence, warm staff, and cutting-edge treatments keep me coming back with confidence.",
-                imageSrc: "https://storage.googleapis.com/webild/default/templates/skincare/image5.avif",
-              },
-              {
-                name: "Amanda Rodriguez",
-                role: "Social Media Influencer",
-                quote: "When your smile matters for your career, you go to the best. This practice delivered a smile that's both beautiful and natural-looking.",
-                imageSrc: "https://storage.googleapis.com/webild/default/templates/skincare/image6.avif",
-              },
-              {
-                name: "David Kim",
-                role: "Healthcare Professional",
-                quote: "The clinical precision combined with artistic vision is remarkable. This team truly understands comprehensive dental care at the highest level.",
-                imageSrc: "https://storage.googleapis.com/webild/default/templates/skincare/image7.avif",
               },
             ]}
           />
@@ -149,7 +131,7 @@ export default function HomePage() {
             textAnimation="slide-up"
             tag="Get In Touch"
             title="Schedule Your Luxury Dental Experience"
-            description="Connect with our team to discuss your smile goals and discover how our personalized treatments can transform your dental health and confidence."
+            description="Visit us at 7259 International Dr Ste a, Orlando, FL 32819 (Floor 1, Dowdy Plaza) or call +1 407-256-9694. Our facility features wheelchair-accessible parking and entrances. We accept credit cards, debit cards, and NFC mobile payments."
             inputPlaceholder="Enter your email"
             buttonText="Get Started"
             imageSrc="https://storage.googleapis.com/webild/default/templates/dentist/contact/contact.avif"
